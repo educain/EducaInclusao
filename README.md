@@ -6,4 +6,4 @@ Este projeto está em desenvolvimento. Atua Funcionalidades principais:
 
   ## Em breve:
   - Correção dos bugs de navegação
-  - Ajuste de permissões e etc.
+  - Ajuste de permissões
